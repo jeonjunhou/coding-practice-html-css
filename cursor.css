@@ -1,0 +1,16 @@
+.cursors {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cursors span {
+  display: inline-block;
+  text-align: center;
+  width: 100px;
+  margin: 5px;
+  padding: 5px 10px;
+  background-color: #d2f4ff;
+  border: 2px solid #09c;
+}
